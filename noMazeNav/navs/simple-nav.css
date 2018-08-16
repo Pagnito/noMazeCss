@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css?family=Poiret+One");
+body {
+	background-color: gold;
+	margin: 0;
+}
+ul > li {
+	list-style-type: none;
+	display: inline;
+	padding: 0;
+	list-style-position: inside;
+	font-size: 30px;
+	margin-left: 5px;
+	cursor: pointer;
+	transition: all 0.2s ease-out;
+}
+.nav-btns > ul > li:hover {
+	color: white;
+	transition: 0.2s ease-out;
+}
+ul {
+	margin: 0px;
+	padding: 0;
+}
+.nav-btns {
+	height: 100%;
+	font-family: "poiret one";
+	display: flex;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.nav-btn-stns {
+	display: flex;
+	background-color: #b3f442;
+}
+
+.nav-1 {
+	height: 100px;
+	background-color: lightblue;
+	width: 100%;
+	display: flex;
+}
+.logo-top {
+	display: flex;
+	align-items: flex-start;
+}
+.logo-bot {
+	display: flex;
+	align-items: flex-end;
+}
+.logo {
+	cursor: default;
+	font-size: 40px;
+	font-family: "poiret one";
+}
+
+.logo-stns {
+	width: 20%;
+	height: 100%;
+	display: flex;
+	box-sizing: border-box;
+	background-color: lightgreen;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.logo-left {
+	display: flex;
+	justify-content: flex-start;
+}
+.logo-center {
+	display: flex;
+	justify-content: center;
+}
+.logo-right {
+	display: flex;
+	align-items: flex-end;
+	flex-direction: row-reverse;
+}
+.vert-center {
+	display: flex;
+	align-items: center;
+}
+.vert-bot {
+	display: flex;
+	align-items: flex-end;
+}
+.vert-top {
+	display: flex;
+	align-items: flex-start;
+}
+.hor-center {
+	display: flex;
+	justify-content: center;
+}
+.hor-left {
+	display: flex;
+	justify-content: flex-start;
+}
+.hor-right {
+	display: flex;
+	justify-content: flex-end;
+}
+.bg-stretch-1 {
+	width: 10%;
+}
+.bg-stretch-2 {
+	width: 20%;
+}
+.bg-stretch-3 {
+	width: 30%;
+}
+.bg-stretch-4 {
+	width: 40% !important;
+}
+.bg-stretch-5 {
+	width: 50% !important;
+}
+.bg-stretch-6 {
+	width: 60% !important;
+}
+.bg-stretch-7 {
+	width: 70% !important;
+}
+.bg-stretch-8 {
+	width: 80% !important;
+}
+.bg-stretch-9 {
+	width: 90% !important;
+}
+.bg-stretch-10 {
+	width: 100% !important;
+}
+
+.no-padding {
+	padding: 0 !important;
+}

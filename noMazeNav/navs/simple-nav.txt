@@ -1,0 +1,15 @@
+
+initialize simple-nav with nav-1
+initialize logo wrapper with logo-stns
+initialize nav btn wrapper with nav-btn-stns
+initialize btn list div with nav-btns
+you can replace logo text with and image..... and style it yourself....bitch
+bg-stretch-1 - bg-stretch-10
+There is bg-stretch classes from bg-stretch-1 to bg-stretch-10
+to stretch the container for either logo or nav BTNS
+
+hor-left, hor-center, hor-right
+vert-bot, vert-center, vert-top
+horizontal and vertical posittioning
+you can position logos and btns within their containers as well as
+the their own containers within the nav bar
